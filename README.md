@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">Hello, Aloha, hola, salut, bonjour, konnichiwa, asalaam alaikum and Zdravstvuyte. Welcome to my GitHub profile! My name is Giorgi Chiaberashvili, and I'am geek who decided to change the course of his life and become a Software Enginner!
+<h4 align="center">Hello, Aloha, hola, salut, bonjour, konnichiwa, asalaam alaikum and Zdravstvuyte. Welcome to my GitHub profile! My name is Giorgi Chiaberashvili, and I'am geek who decided to change the course of his life and become a Software Enginner!
 
-I'm always looking to learn and grow, and I believe that sharing knowledge and collaborating with others is the best way to do that. Whether you're here to explore my work, contribute to a project(comming soon), or just say hello, I'm excited to connect with you and be a part of this vibrant community.
+I'm always looking to learn and grow, and I believe that sharing knowledge and collaborating with others is the best way to do that. Whether you're here to explore my work, contribute to a project(coming soon), or just say hello, I'm excited to connect with you and be a part of this vibrant community.
 
 Thank you for visiting, and I look forward to connecting with you soon!
-.</h3>
+.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgichiaberashvili&label=Profile%20views&color=0e75b6&style=flat" alt="giorgichiaberashvili" /> </p>
 
