@@ -8,7 +8,7 @@ Thank you for visiting, and I look forward to connecting with you soon!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgichiaberashvili&label=Profile%20views&color=0e75b6&style=flat" alt="giorgichiaberashvili" /> </p>
 
-- 🔭 I'm always trying to expand my skills and knowledge. Here are some of the things I'm currently learning:Data Structures and Algorithms.
+- 🔭 I'm always **trying to expand my skills and knowledge. Here are some of the things I'm currently learning:Data Structures and Algorithms.**
 
 - 🌱 I’m enrolled in **App Academy Open (AAO) cohort, projected to complete end of 2023.**
 
