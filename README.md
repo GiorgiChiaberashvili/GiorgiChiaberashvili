@@ -1,16 +1,21 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Giorgi Chiaberashvili</h1>
-<h3 align="center">A passionate tech geek who is currently on the path to become a Software Engineer.</h3>
+<h3 align="center">A passionate tech geek who is currently is on the path to become a Software Engineer. My hobbies are Photography, Videography. I'm passionate about almost everything that I do and always looking to learn more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgichiaberashvili&label=Profile%20views&color=0e75b6&style=flat" alt="giorgichiaberashvili" /> </p>
+
+- 🔭 I’m currently working on [I'm always trying to expand my skills and knowledge. Here are some of the things I'm currently learning:](Data Structures and Algorithms)
 
 - 🌱 I’m enrolled in **App Academy Open(AAO) cohort**
 
 - 👯 I’m looking to collaborate on **everything.**
 
+- 💬 Ask me about **I'm always happy to chat about future of Tech, Bitcoin, Blockchain.**
+
 - 📫 How to reach me **gio.chiaberashvili@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/giorgi-chiaberashvili/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giorgi-chiaberashvili/" height="30" width="40" /></a>
 </p>
@@ -23,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giorgichiaberashvili&show_icons=true&locale=en" alt="giorgichiaberashvili" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giorgichiaberashvili&" alt="giorgichiaberashvili" /></p>
+
