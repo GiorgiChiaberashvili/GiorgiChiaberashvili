@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'am Giorgi Chiaberashvili</h1>
 <h4 align="center">Hello, Aloha, hola, salut, bonjour, konnichiwa, asalaam alaikum and Zdravstvuyte. Welcome to my GitHub profile! I'am geek who decided to change the course of his life and become a Software Enginner!
 
