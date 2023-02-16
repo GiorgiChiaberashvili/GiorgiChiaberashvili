@@ -7,7 +7,7 @@
 - 📫 How to reach me: gio.chiaberashvili@gmail.com
 - ⚡ Fun fact: I have M.S. in completely different area and changing my life path 180 degree.
 -->
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Tech geek and future software Enginner!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgichiabershvili&label=Profile%20views&color=0e75b6&style=flat" alt="giorgichiabershvili" /> </p>
 
