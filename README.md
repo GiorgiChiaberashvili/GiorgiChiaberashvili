@@ -14,11 +14,11 @@ Thank you for visiting, and I look forward to connecting with you soon!
 
 - 👯 I’m looking to collaborate on **everything.**
 
-- 💬 Ask me about **always happy to chat about future of Tech, Bitcoin, Blockchain.**
+- 💬 Ask me about **future of Tech, Bitcoin, Blockchain.**
 
 - 📫 How to reach me **gio.chiaberashvili@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/giorgi-chiaberashvili/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giorgi-chiaberashvili/" height="30" width="40" /></a>
 </p>
