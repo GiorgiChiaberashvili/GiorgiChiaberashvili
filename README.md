@@ -1,17 +1,22 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Giorgi Chiaberashvili</h1>
-<h3 align="center">A passionate tech geek who is currently is on the path to become a Software Engineer. My hobbies are Photography, Videography. I'm passionate about almost everything that I do and always looking to learn more.</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">Hello, Aloha, hola, salut, bonjour, konnichiwa, asalaam alaikum and Zdravstvuyte. Welcome to my GitHub profile! My name is Giorgi Chiaberashvili, and I'am geek who decided to change the course of his life and become a Software Enginner!
+
+I'm always looking to learn and grow, and I believe that sharing knowledge and collaborating with others is the best way to do that. Whether you're here to explore my work, contribute to a project(comming soon), or just say hello, I'm excited to connect with you and be a part of this vibrant community.
+
+Thank you for visiting, and I look forward to connecting with you soon!
+.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgichiaberashvili&label=Profile%20views&color=0e75b6&style=flat" alt="giorgichiaberashvili" /> </p>
 
-- 🔭 I’m currently working on [I'm always trying to expand my skills and knowledge. Here are some of the things I'm currently learning:](Data Structures and Algorithms)
+- 🔭 I'm always trying to expand my skills and knowledge. Here are some of the things I'm currently learning:Data Structures and Algorithms.
 
-- 🌱 I’m enrolled in **App Academy Open(AAO) cohort**
+- 🌱 I’m enrolled in **App Academy Open (AAO) cohort, projected to complete end of 2023.**
 
 - 👯 I’m looking to collaborate on **everything.**
 
-- 💬 Ask me about **I'm always happy to chat about future of Tech, Bitcoin, Blockchain.**
+- 💬 Ask me about **always happy to chat about future of Tech, Bitcoin, Blockchain.**
 
 - 📫 How to reach me **gio.chiaberashvili@gmail.com**
 
