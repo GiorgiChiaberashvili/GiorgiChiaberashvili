@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgichiaberashvili&label=Profile%20views&color=0e75b6&style=flat" alt="giorgichiaberashvili" /> </p>
 
-- 🔭 I’m currently working on I'm always trying to expand my skills and knowledge. Here are some of the things I'm currently learning: **Express & SQL
+- 🔭 I’m currently working on I'm always trying to expand my skills and knowledge. Here are some of the things I'm currently learning: **Express & SQL**
 
 - 🌱 I’m enrolled in **App Academy Open(AAO) cohort**
 
