@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on I'm always trying to expand my skills and knowledge. Here are some of the things I'm currently learning : **Java.**
 
-- 🌱 I’m completed  **App Academy Open(AAO) Cohort**
+- 🌱 I completed  **App Academy Open(AAO) Cohort**
 
 - 👯 I’m looking to collaborate on **Everything.**
 
